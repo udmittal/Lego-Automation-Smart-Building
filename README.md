@@ -13,6 +13,6 @@ Here's the final result.
 **Lights and Fan OFF** ![Lego Smart Building - All off.](Pictures/IMG_2313.jpg)
 
 **Video**
-<div>
-![](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7425848358642073600?compact=1)
-</div>
+
+![Video of Lego Smart Building](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7425848358642073600?compact=1)
+
