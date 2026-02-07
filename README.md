@@ -7,3 +7,4 @@ It was a fantastic weekend project that combined creativity with a bit of engine
 
 Here's the final result.
 
+![Lego Smart Building - All on.](Pictures/IMG_2310.jpg)
