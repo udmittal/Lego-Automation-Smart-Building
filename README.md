@@ -15,5 +15,5 @@ Here's the final result.
 **Video**
 
 <div>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7425848358642073600?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<video src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7425848358642073600?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></video>
 </div>
