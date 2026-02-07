@@ -8,6 +8,10 @@ It was a fantastic weekend project that combined creativity with a bit of engine
 Here's the final result.
 
 **Lights and Fan ON** ![Lego Smart Building - All on.](Pictures/IMG_2310.jpg)
-![Lego Smart Building - Fan on.](Pictures/IMG_2311.jpg)
-![Lego Smart Building - Light on.](Pictures/IMG_2312.jpg)
-![Lego Smart Building - All off.](Pictures/IMG_2313.jpg)
+**Only Fan ON** ![Lego Smart Building - Fan on.](Pictures/IMG_2311.jpg)
+**Only Lights ON** ![Lego Smart Building - Light on.](Pictures/IMG_2312.jpg)
+**Lights and Fan OFF** ![Lego Smart Building - All off.](Pictures/IMG_2313.jpg)
+
+**Video**
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7425848358642073600?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
