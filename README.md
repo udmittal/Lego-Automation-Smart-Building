@@ -14,5 +14,5 @@ Here's the final result.
 
 **Video**
 
-![Video of Lego Smart Building](https://www.linkedin.com/posts/uday-mittal_smarthomes-lego-automation-activity-7425848443694247936-6ARH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASNaF0B65HSWmS28YRA4_11NSWCtbtQTOg)
+[Video of Lego Smart Building](https://www.linkedin.com/posts/uday-mittal_smarthomes-lego-automation-activity-7425848443694247936-6ARH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASNaF0B65HSWmS28YRA4_11NSWCtbtQTOg)
 
