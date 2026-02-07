@@ -16,3 +16,31 @@ Here's the final result.
 
 [Video of Lego Smart Building](https://www.linkedin.com/posts/uday-mittal_smarthomes-lego-automation-activity-7425848443694247936-6ARH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASNaF0B65HSWmS28YRA4_11NSWCtbtQTOg)
 
+## List of components, tool and software used
+
+List of components used:
+1. ESP32 Development Board (micro-controller)
+2. 5V 2-Channel Relay Module
+3. 40mm 12V Fan
+4. 12V White LED Strip
+5. 12V 2A Adapter (or portable router UPS)
+6. Male-Female Jumper wires
+7. DC Female Pigtail
+8. DC to 10mm Connector
+9. CH-3 Connector
+10. USB A to Micro-USB Data Sync cable
+11. Power Bank (optional)
+12. Laptop / Desktop
+13. Lego Set
+
+List of tools used:
+1. High-precision screw-driver
+2. Wire stripper
+3. Electrical Tape
+
+List of software used:
+1. Arduino IDE (with ESP32 board and modbus-esp8266 library)
+2. Python (with pymodbus module)
+3. Windows 10 / 11
+4. Google Gemini (for instructions and troubleshooting)
+
