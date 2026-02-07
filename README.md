@@ -8,3 +8,6 @@ It was a fantastic weekend project that combined creativity with a bit of engine
 Here's the final result.
 
 ![Lego Smart Building - All on.](Pictures/IMG_2310.jpg)
+![Lego Smart Building - Fan on.](Pictures/IMG_2311.jpg)
+![Lego Smart Building - Light on.](Pictures/IMG_2312.jpg)
+![Lego Smart Building - All off.](Pictures/IMG_2313.jpg)
